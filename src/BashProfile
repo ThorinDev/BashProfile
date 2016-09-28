@@ -1,0 +1,2 @@
+alias iip='ipconfig getifaddr en1'
+alias eip='curl ipecho.net/plain ; echo'
